@@ -1,0 +1,21 @@
+{
+  "name": "reactquiz",
+  "version": "1.0.0",
+  "description": "Simple quiz app in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Lugo",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "5.8.*",
+    "babel-loader": "5.4.*",
+    "webpack": "1.13.*"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "react": "^0.14.8",
+    "react-dom": "^0.14.8"
+  }
+}
